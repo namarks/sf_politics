@@ -10,7 +10,7 @@ __pycache__/
 # Ignore environment folders (if environment is local)
 env/
 venv/
-.sf_politics_env/
+.s/
 
 # Ignore system files
 .DS_Store
